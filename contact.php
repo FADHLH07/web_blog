@@ -42,7 +42,7 @@ Author URL: http://w3layouts.com
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item @@home__active">
-              <a class="nav-link" href="index.html">Home</a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item dropdown @@category__active">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -50,12 +50,12 @@ Author URL: http://w3layouts.com
                 Categories <span class="fa fa-angle-down"></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item @@ls__active" href="lifestyle.html">Lifestyle posts</a>
-                <a class="dropdown-item @@cp__active" href="culture.html">Culture posts</a>
+                <a class="dropdown-item @@ls__active" href="lifestyle.php">Lifestyle posts</a>
+                <a class="dropdown-item @@cp__active" href="culture.php">Culture posts</a>
               </div>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="contact.html">Contact</a>
+              <a class="nav-link" href="contact.php">Contact</a>
             </li>
           </ul>
 
